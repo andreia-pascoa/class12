@@ -10,8 +10,8 @@ public class HelloWorld {
 
 	public static void sayHello() {
 		
-		System.out.println("Hello, again!");
 		System.out.println("Let's do some Java!!!");
+		System.out.println("Hello, again! It's nice to see you!");
 
 	}
 
